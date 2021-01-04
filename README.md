@@ -1,3 +1,6 @@
+# READ FIRST
+OpenEDU is currently in the very beginning steps. Please be patient as we add content, get things organized, etc.
+
 # OpenEDU
 OpenEDU is an ongoing project designed to create an open-source, completely free curriculum that K-12 schools can implement in order to eliminate their reliance on expensive, largely ineffective textbook companies.
 
