@@ -5,9 +5,9 @@ OpenEDU is an ongoing project designed to create an open-source, completely free
 Currently, there are major problems with the educational resource industry (e.g. textbooks, assessments, etc.), the most egregious of which are exorbitant costs and far too much "filler" content. The purpose of OpenEDU is to create a free alternative that is maintained by the teaching community, with updates being peer-reviewed in order to maintain high standards.
 
 ## Getting Started
-For teachers, click this link to get started.
+For teachers, [click this link to get started](https://github.com/misterbastean/OpenEDU/blob/main/teachers_readme.md).
 
-For technical information, click this link.
+For technical information, [click this link](https://github.com/misterbastean/OpenEDU/blob/main/technical_readme.md).
 
 ## Brief History
 Dr. Josh Bastean started working on OpenEDU when he noticed that the current educational resources industry has many similarities to the software industry in the 1990s. Specifically, software was proprietary and extremely expensive, resulting in high costs, low innovation, and a culture focused on limiting access. This is very similar to the current curriculum industry, which focuses on creating extremely expensive resources (especially textbooks) that are rarely updated in any meaningful way, resulting in high costs, low innovation, and a culture focused on limiting access.
